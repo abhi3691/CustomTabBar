@@ -3,7 +3,7 @@ import React from 'react';
 
 const CalenderScreen = () => {
   return (
-    <View>
+    <View style={{flex: 1, alignItems: 'center', justifyContent: 'center'}}>
       <Text>CalenderScreen</Text>
     </View>
   );

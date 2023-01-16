@@ -3,7 +3,7 @@ import React from 'react';
 
 const AlertScreen = () => {
   return (
-    <View>
+    <View style={{flex: 1, alignItems: 'center', justifyContent: 'center'}}>
       <Text>AlertScreen</Text>
     </View>
   );
